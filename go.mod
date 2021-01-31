@@ -18,6 +18,7 @@ require (
 	github.com/dnaeon/go-vcr v1.0.1 // indirect
 	github.com/docker/go-events v0.0.0-20190806004212-e31b211e4f1c
 	github.com/docker/go-metrics v0.0.1
+	github.com/docker/go-units v0.4.0 // indirect
 	github.com/docker/libtrust v0.0.0-20150114040149-fa567046d9b1
 	github.com/gomodule/redigo v1.8.2
 	github.com/gorilla/handlers v0.0.0-20150720190736-60c7bfde3e33
@@ -27,6 +28,9 @@ require (
 	github.com/marstr/guid v1.1.0 // indirect
 	github.com/mitchellh/mapstructure v1.1.2
 	github.com/mitchellh/osext v0.0.0-20151018003038-5e2d6d41470f // indirect
+	github.com/moby/moby v20.10.2+incompatible
+	github.com/moby/term v0.0.0-20201216013528-df9cb8a40635 // indirect
+	github.com/morikuni/aec v1.0.0 // indirect
 	github.com/ncw/swift v1.0.47
 	github.com/opencontainers/go-digest v1.0.0
 	github.com/opencontainers/image-spec v1.0.1
